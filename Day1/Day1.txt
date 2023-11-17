@@ -1,0 +1,9 @@
+Day1:
+	- Menu items
+	- Sub Menu items
+	- Adding Frames to Menu Items
+	- Adding New Page
+	- Setting the Properties of the pages to center 
+	- Visiblity Discussed Here
+	- Labels
+	

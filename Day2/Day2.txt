@@ -1,0 +1,7 @@
+Day2 
+	- label
+	- Aligments of Lable
+	- width
+	- Font-size, style, family
+	- Icon in Lable
+	- Maximize or Minimize the Window
