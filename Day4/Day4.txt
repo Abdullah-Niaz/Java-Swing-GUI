@@ -1,0 +1,3 @@
+IN Day, We have discused the, Even listeners of window,
+Here: 
+	The one thing that inspired me is that, we can apply an event on evey component of the SWING
